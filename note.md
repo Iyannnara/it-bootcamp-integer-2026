@@ -4,11 +4,11 @@ topic
 - cli/terminal
 - version control
 
-What's algorithm ?
+*What's algorithm ?*
 serangkaian langkah yang disusun secara teratur untuk mencapai tujuan atau menyelesaikan masalah (wajib yang efesien jangan terlalu panjang amad alurnya)
 contoh : algorithm memasak mie
 
-apa saja komponen dasar algorithm 
+*apa saja komponen dasar algorithm?* 
 - input
 - proses
 - output
