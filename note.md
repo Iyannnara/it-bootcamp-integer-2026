@@ -29,10 +29,10 @@ pseudocode : menuliskan langkah langkah algorithm dengan bahasa sederhana yang m
 perbedaan
 
 kapan sebaiknya digunakan
-gunakan peu
-memahami dan menjelaskan gambaran besar alur penyelesaian masalah
-flowchat 
-keduanya
+  gunakan peu
+    memahami dan menjelaskan gambaran besar alur penyelesaian masalah
+  flowchat 
+  keduanya
 
 # pola pikir software engineer
 problem understanding 
