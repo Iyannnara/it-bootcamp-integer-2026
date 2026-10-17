@@ -69,6 +69,7 @@ team : kolaborasi
 
 # git vs github
 istilah secara umum yang sering digunakan
+
 repo
   *folder*
 commit
