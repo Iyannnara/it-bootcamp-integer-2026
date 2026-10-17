@@ -87,3 +87,6 @@ confliot
   *kondisi perbedaan pada bagian yang sama tidak dapat digabungkan decara otomatis*
 merge
   *menggabungkan history commit dari satu branch ke branch lainnya*
+
+alur kerja git
+working directory (edit di sini) ->> staging area(siap disimpan) ->> local repo(disimpan di laptop) ->> remote(github)
