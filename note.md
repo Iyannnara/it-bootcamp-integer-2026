@@ -70,23 +70,23 @@ team : kolaborasi
 # git vs github
 istilah secara umum yang sering digunakan
 
-repo
+1. repo
   *folder*
-commit
+2. commit
   *simpan perubahan lenhkap dengan catatan*
-push
+3. push
   *kirim update ke github*
-pull
+4. pull
   *ambil update dari github*
-clone
+5. clone
   *menyalin repo github*
-branch
+6. branch
   *jalur kerja terpisah untuk coba coba*
-pull req
+7. pull req
   *menyesuaikan perubahan agar ditinjau dan digabungkan*
-confliot
+8. confliot
   *kondisi perbedaan pada bagian yang sama tidak dapat digabungkan decara otomatis*
-merge
+9. merge
   *menggabungkan history commit dari satu branch ke branch lainnya*
 
 alur kerja git
