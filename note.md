@@ -67,8 +67,8 @@ solo dev : seperti checkpoint di game
 team : kolaborasi 
       alat supaya kerja bareng tidak berantakan
 
-#git vs github
-istilah yang sering digunakan
+# git vs github
+istilah secara umum yang sering digunakan
 repo
   *folder*
 commit
