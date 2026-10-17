@@ -35,7 +35,7 @@ flowchat
 keduanya
 
 # pola pikir software engineer
-// problem understanding 
+problem understanding 
   memahami permasalahan yang terjadi
 logical thingking 
   menggunakan hubungan, sebab, akibat, aturan, batasan, dan kemungkinan yang harus ditangani sistem
@@ -44,9 +44,12 @@ promblen solving
 Implementation 
   mengimplementasikan solusi dengan struktur yang jelas, aman, efesien, dan mudah dikembangkan
 
-## kesalahan dalam problem solving
+# kesalahan dalam problem solving
 - langsung coding
 - hanya obati gejala
 - solusi over engineering
 - tanpa pengujian lengkap
 - abaikan dampak perubahan
+
+# VERSION CONTROL
+
