@@ -1,20 +1,20 @@
 # day 1 sat,17 2026
-topic
-<sub> 
+
+# *topic*
   - logic n problem solving
   - cli/terminal
-<sub> - version control </sub>
+  - version control
 
-What's algorithm ?
+# What's algorithm ?
 serangkaian langkah yang disusun secara teratur untuk mencapai tujuan atau menyelesaikan masalah (wajib yang efesien jangan terlalu panjang amad alurnya)
 contoh : algorithm memasak mie
 
-*apa saja komponen dasar algorithm?* 
+# apa saja komponen dasar algorithm? 
 - input
 - proses
 - output
 
-3 fondasi algorithm 
+# 3 fondasi algorithm 
 - sequence
   urutan instruksi
 - selection
@@ -22,7 +22,7 @@ contoh : algorithm memasak mie
 - iteration
   perulangan
 
-pseudocode n flowchart 
+# pseudocode n flowchart 
 pseudocode : menuliskan langkah langkah algorithm dengan bahasa sederhana yang menyerupai instruksi program, tapi tidak terikat pada aturan bahasa pemprograman tertentu
 - diagram
 
@@ -34,8 +34,8 @@ memahami dan menjelaskan gambaran besar alur penyelesaian masalah
 flowchat 
 keduanya
 
-## pola pikir software engineer
-problem understanding 
+# pola pikir software engineer
+// problem understanding 
   memahami permasalahan yang terjadi
 logical thingking 
   menggunakan hubungan, sebab, akibat, aturan, batasan, dan kemungkinan yang harus ditangani sistem
