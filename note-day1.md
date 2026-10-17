@@ -258,4 +258,3 @@ git clone url-repo          # Salin repo dari GitHub
 
 ---
 
-**Catatan:** Materi ini fokus pada Day 1: Logic & Problem Solving, CLI/Terminal, dan Version Control.
