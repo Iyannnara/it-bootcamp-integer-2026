@@ -92,7 +92,13 @@ istilah secara umum yang sering digunakan
 alur kerja git
 working directory (edit di sini) ->> staging area(siap disimpan) ->> local repo(disimpan di laptop) ->> remote(github)
 
-
+aturan collab git n github
+- bagi tugas yang jelas
+- gunakan branch terpisah
+- koordinasikan perubahan
+- commit secara terfokus
+- review sebelum merge
+- jaga keamanan dan perubahan
 
 ```bash
 tes anjay
