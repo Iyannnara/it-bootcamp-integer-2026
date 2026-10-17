@@ -12,3 +12,11 @@ apa saja komponen dasar algorithm
 - input
 - proses
 - output
+
+3 fondasi algorithm 
+- sequence
+  urutan instruksi
+- selection
+  pengambilan keputusan
+- iteration
+  perulangan
