@@ -51,9 +51,21 @@ Implementation
 - tanpa pengujian lengkap
 - abaikan dampak perubahan
 
-# VERSION CONTROL
+# Version control
 pengertian : sistem yang mencatat setiap perubahan file (bisa dilihat, dibandingkan, dikembalikan)
 - riwayat perubahan
 - backup
 - collaboration
 - rollback
+
+why version control penting
+tanpa pengelola versi yang baik, perubahan ketiga pengembang dapat saling menimpam dan sulit lah pokoknya
+
+solo vs team
+solo dev : seperti checkpoint di game
+          alat penyelamat progress kerja
+team : kolaborasi 
+      alat supaya kerja bareng tidak berantakan
+
+#git vs github
+
