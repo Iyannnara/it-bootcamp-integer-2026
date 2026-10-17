@@ -1,20 +1,20 @@
-### day 1 sat,17 2026
+# day 1 sat,17 2026
 
 # *topic*
   - logic n problem solving
   - cli/terminal
   - version control
 
-# What's algorithm ?
+### What's algorithm ?
 serangkaian langkah yang disusun secara teratur untuk mencapai tujuan atau menyelesaikan masalah (wajib yang efesien jangan terlalu panjang amad alurnya)
 contoh : algorithm memasak mie
 
-# apa saja komponen dasar algorithm? 
+### apa saja komponen dasar algorithm? 
 - input
 - proses
 - output
 
-# 3 fondasi algorithm 
+### 3 fondasi algorithm 
 - sequence
   urutan instruksi
 - selection
@@ -22,7 +22,7 @@ contoh : algorithm memasak mie
 - iteration
   perulangan
 
-# pseudocode n flowchart 
+### pseudocode n flowchart 
 pseudocode : menuliskan langkah langkah algorithm dengan bahasa sederhana yang menyerupai instruksi program, tapi tidak terikat pada aturan bahasa pemprograman tertentu
 - diagram
 
@@ -34,7 +34,7 @@ kapan sebaiknya digunakan
   flowchat 
   keduanya
 
-# pola pikir software engineer
+### pola pikir software engineer
 problem understanding 
   memahami permasalahan yang terjadi
 logical thingking 
@@ -44,14 +44,14 @@ promblen solving
 Implementation 
   mengimplementasikan solusi dengan struktur yang jelas, aman, efesien, dan mudah dikembangkan
 
-# kesalahan dalam problem solving
+### kesalahan dalam problem solving
 - langsung coding
 - hanya obati gejala
 - solusi over engineering
 - tanpa pengujian lengkap
 - abaikan dampak perubahan
 
-# Version control
+### Version control
 pengertian : sistem yang mencatat setiap perubahan file (bisa dilihat, dibandingkan, dikembalikan)
 - riwayat perubahan
 - backup
@@ -67,7 +67,7 @@ solo dev : seperti checkpoint di game
 team : kolaborasi 
       alat supaya kerja bareng tidak berantakan
 
-# git vs github
+### git vs github
 istilah secara umum yang sering digunakan
 
 1. repo
