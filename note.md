@@ -1,4 +1,4 @@
-# day 1 sat,17 2026
+### day 1 sat,17 2026
 
 # *topic*
   - logic n problem solving
@@ -68,4 +68,22 @@ team : kolaborasi
       alat supaya kerja bareng tidak berantakan
 
 #git vs github
-
+istilah yang sering digunakan
+repo
+  *folder*
+commit
+  *simpan perubahan lenhkap dengan catatan*
+push
+  *kirim update ke github*
+pull
+  *ambil update dari github*
+clone
+  *menyalin repo github*
+branch
+  *jalur kerja terpisah untuk coba coba*
+pull req
+  *menyesuaikan perubahan agar ditinjau dan digabungkan*
+confliot
+  *kondisi perbedaan pada bagian yang sama tidak dapat digabungkan decara otomatis*
+merge
+  *menggabungkan history commit dari satu branch ke branch lainnya*
