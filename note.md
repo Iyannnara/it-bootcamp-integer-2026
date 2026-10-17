@@ -52,7 +52,7 @@ Implementation
 - abaikan dampak perubahan
 
 # VERSION CONTROL
-DEFINISON: sistem yang mencatat setiap perubahan file (bisa dilihat, dibandingkan, dikembalikan)
+pengertian : sistem yang mencatat setiap perubahan file (bisa dilihat, dibandingkan, dikembalikan)
 - riwayat perubahan
 - backup
 - collaboration
