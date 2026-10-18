@@ -1,6 +1,6 @@
 # Catatan Dasar Web Development
 
-## 1. Web Statis vs Web Dinamis
+## Web Statis vs Web Dinamis
 
 - **Web Statis:** 
   - **Karakteristik:** Tampilannya tetap dan kontennya sama untuk semua pengguna/setiap kali dibuka (kecuali kode sumbernya diubah secara manual).
@@ -11,7 +11,7 @@
 
 ---
 
-## 2. Analogi HTML, CSS, dan JavaScript
+## Analogi HTML, CSS, dan JavaScript
 
 - **HTML (HyperText Markup Language):** **Tulang / Struktur**  
   Menyediakan pondasi, kerangka, dan elemen penyusun halaman web.
@@ -26,16 +26,49 @@
 > - **CSS:** Bahasa lembar gaya (*Style Sheet Language*).
 > - **JavaScript:** Ya, ini adalah **bahasa pemrograman** (*Programming Language*).
 
-Pseudo class dan element
 
-Pengertian JS Dom
-- Struktur pohon
-- Jembatan akses
-- Dinmais Real-Time
+## CSS Pseudo-classes & Pseudo-elements
+
+### A. Pseudo-class (`:`)
+Digunakan untuk mendefinisikan **status khusus (*state*)** dari suatu elemen.
+
+* **Sintaks:** `selector:pseudo-class { ... }`
+* **Contoh Umum:**
+  * `:hover` — Mengubah gaya saat kursor diarahkan di atas elemen.
+  * `:active` — Mengubah gaya saat elemen sedang diklik.
+  * `:focus` — Mengubah gaya saat elemen sedang aktif menerima input (misal input form).
+  * `:nth-child(n)` — Memilih elemen berdasarkan urutan posisinya di dalam parent.
+  * `:not(selector)` — Memilih elemen yang *tidak* cocok dengan selektor tertentu.
+
+### B. Pseudo-element (`::`)
+Digunakan untuk memberi gaya pada **bagian spesifik/tertentu** dari suatu elemen tanpa perlu membuat tag HTML baru.
+
+* **Sintaks:** `selector::pseudo-element { ... }`
+* **Contoh Umum:**
+  * `::before` — Menyisipkan konten buatan *sebelum* isi elemen.
+  * `::after` — Menyisipkan konten buatan *setelah* isi elemen.
+  * `::first-letter` — Memberi gaya khusus pada huruf pertama teks.
+  * `::placeholder` — Memberi gaya pada teks instruksi di dalam input form.
+  * `::selection` — Memberi gaya pada bagian teks yang di-blok/sorot oleh pengguna.
+
+---
+
+## Pengertian JavaScript DOM (Document Object Model)
+
+DOM adalah antarmuka pemograman (*API*) yang mengubah dokumen HTML menjadi objek-objek terstruktur yang dapat dibaca dan dimanipulasi oleh JavaScript.
+
+* **1. Struktur Pohon (*Tree Structure*):**
+  HTML diterjemahkan menjadi hierarki bercabang (*DOM Tree*). Komponen HTML seperti tag, atribut, dan teks menjadi **simpul (*node*)** atau objek dalam pohon tersebut (`document` -> `html` -> `body` -> `h1`, `p`, dll).
+
+* **2. Jembatan Akses (*Access Bridge*):**
+  DOM berfungsi sebagai jembatan yang menghubungkan skrip JavaScript dengan dokumen HTML. Tanpa DOM, JavaScript tidak bisa membaca atau mengubah elemen HTML yang ada di browser.
+
+* **3. Dinamis Real-Time (*Real-Time Dynamic*):**
+  Perubahan yang dilakukan JavaScript melalui DOM akan langsung terefleksikan di layar browser secara instan tanpa perlu memuat ulang (*reload*) halaman.
   
 ---
 
-## 3. Daftar Referensi Lengkap HTML, CSS, dan JavaScript
+## Daftar Referensi Lengkap HTML, CSS, dan JavaScript
 
 ---
 
