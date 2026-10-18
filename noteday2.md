@@ -1,4 +1,10 @@
-#Web Dinamis dan statis
+# Web Dev
 
-Statis itu tampilan nya itu itu aja contohnya portopolio
-dinamis itu content yang berbeda beda contohnya kek web dashboard
+### Web Dinamis dan statis
+Statis : tampilan nya itu itu aja contohnya portopolio
+dinamis : content yang berbeda beda contohnya kek web dashboard
+
+### html, css, javascript 
+- html tulang (struktur)
+- css badan (tampilan)
+- Javascript otak (perilaku)
